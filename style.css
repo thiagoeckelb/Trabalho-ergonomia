@@ -1,0 +1,42 @@
+body{
+    background-color:gainsboro;
+    gap: 10px;
+}
+
+.hero{
+    text-align: center;
+    margin: 15px;
+    background-color: white;
+    font-size: 30px;
+    border-radius: 5px;
+    
+    justify-content: center;
+}
+
+.info{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.buttom{
+    text-decoration: none;   
+    color: rgb(236, 236, 236);
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+
+.navbar{
+    justify-content: center;
+    margin: 10px;
+}
+
+.bots{
+    text-align: end;
+    margin-right: 20px;
+}
+
+.formu{
+    margin-left: 40%;
+}
